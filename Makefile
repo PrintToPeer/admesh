@@ -1,3 +1,3 @@
 
 admesh: src/*.c
-	clang $+ -o $@
+	gcc $+ -o $@
