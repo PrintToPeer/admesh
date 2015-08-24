@@ -1,18 +1,8 @@
-About this release and repository:
-----------------------------------
+You probably don't want this version of ADMesh
+----------------------------------------------
 
-ADMesh was released as an application in 1995/96. Not much happened since then.
-As the code of this project might bring use for others, this "fork" was created
-to provide a shared library. Once done that, I've collected lots of bugfixes
-from the world around us.
-
-No further development will be done, but bugs will be resolved, if possible.
-
-Don't patch this project downstream but use this code, so all can benefit from
-the changes. Pull requests are welcome, but be sure to generate no warnings.
-
-Grab the 0.98.2 tarball:
-https://github.com/admesh/admesh/releases/download/v0.98.2/admesh-0.98.2.tar.gz
+This repository is forked from https://github.com/admesh/admesh with autotools
+removed. You probably want to use the original repository.
 
 About ADMesh:
 -------------
