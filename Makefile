@@ -1,3 +1,3 @@
 
 admesh: src/*.c
-	gcc $+ -o $@
+	gcc $+ -lm -o $@
