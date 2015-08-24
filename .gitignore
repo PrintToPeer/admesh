@@ -18,7 +18,6 @@ install-sh
 libtool
 *.lo
 ltmain.sh
-Makefile
 Makefile.in
 missing
 mkinstalldirs
